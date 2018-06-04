@@ -1,0 +1,12 @@
+{
+  "produk" : [{"id":1,"first_name":"Terri","last_name":"OIlier","email":"toilier0@netscape.com","gender":"Female","ip_address":"199.253.230.223"},
+{"id":2,"first_name":"Gareth","last_name":"Reuven","email":"greuven1@pen.io","gender":"Male","ip_address":"84.61.119.249"},
+{"id":3,"first_name":"George","last_name":"Skirling","email":"gskirling2@edublogs.org","gender":"Female","ip_address":"58.223.4.52"},
+{"id":4,"first_name":"Evyn","last_name":"Senechault","email":"esenechault3@scribd.com","gender":"Male","ip_address":"53.6.47.133"},
+{"id":5,"first_name":"Terry","last_name":"Kindon","email":"tkindon4@fc2.com","gender":"Male","ip_address":"15.31.241.175"},
+{"id":6,"first_name":"Oralla","last_name":"Alvar","email":"oalvar5@digg.com","gender":"Female","ip_address":"47.78.99.139"},
+{"id":7,"first_name":"Bambi","last_name":"Glencros","email":"bglencros6@mit.edu","gender":"Female","ip_address":"54.33.201.131"},
+{"id":8,"first_name":"Sherwynd","last_name":"Suthworth","email":"ssuthworth7@alibaba.com","gender":"Male","ip_address":"142.88.212.22"},
+{"id":9,"first_name":"Rossy","last_name":"Blumer","email":"rblumer8@chron.com","gender":"Male","ip_address":"101.152.198.192"},
+{"id":10,"first_name":"Minna","last_name":"Fitzpayn","email":"mfitzpayn9@statcounter.com","gender":"Female","ip_address":"207.104.185.248"}]
+}
